@@ -8,7 +8,7 @@ public class ManagementOrderStoreApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ManagementOrderStoreApplication.class, args);
-        //TODO
+
     }
 
 }
